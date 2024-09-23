@@ -1,5 +1,4 @@
-# Consolectiv_EU
-#Consolectiv (self-consumption tool for Europe)
+# Consolectiv EU (self-consumption tool for Europe)
 A free online tool for the simulation of individual or collective self-consumption in Europe.
 This free online tool is the fruit of collaboration between Lucisun and Université Libre de Bruxelles (ULB) and is part of the COPLASIMON platform, developed in the framework of the Serendi-PV project.
 The tool is composed of an interface for calculating the self-consumption ratio, the self-sufficiency ratio and other results for the self-consumption of the energy produced by photovoltaic installations in the whole Europe.
